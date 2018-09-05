@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LoginSecurity</string>
+    <string name="login_privacy">Login Privacy</string>
+    <string name="already_a_member_login"><u>already a member?/ login</u></string>
+    <string name="enter_id">Enter id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="register">Register</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="image_is_mandatory">Image is Mandatory</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_date_of_birth">Enter Date Of Birth</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="id">id</string>
+    <string name="colon">:</string>
+    <string name="password">Password</string>
+</resources>
