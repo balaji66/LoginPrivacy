@@ -1,4 +1,4 @@
-package traineeproject.squareandcube.com.loginsecurity;
+package durga.balaji66.com.loginsecurity;
 
 public class User {
     private String mFirstName;
