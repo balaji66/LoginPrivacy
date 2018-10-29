@@ -64,6 +64,7 @@ public class AdminActivity extends AppCompatActivity implements View.OnClickList
 
     public void startHomeActivity() {
         Intent intentAdminLogin = new Intent(AdminActivity.this, AllRegisteredUsersActivity.class);
+
         startActivity(intentAdminLogin);
         finish();
     }
